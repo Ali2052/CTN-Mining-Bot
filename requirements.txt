@@ -1,3 +1,0 @@
-pyTelegramBotAPI
-pymongo
-apscheduler
